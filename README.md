@@ -1,1 +1,1 @@
-# Pandas_kutubxonasi
+Pandas kutubxonasi bo'yicha amaliy vazifalar
